@@ -14,4 +14,5 @@ grouped bar charts. It also displays a correlation matrix of the selected score 
 
 ML: The code prepares the data for prediction using a linear regression model. It reads the cleaned data and splits it into features (X) and the target variable (y). The features are encoded to make them suitable for the model. The encoded features are splitted into training and validation sets. The code then trains the linear regression model on the training data and predicts the target variable for the validation set. It evaluates the model's performance using metrics 
 like mean absolute error, R-squared, and mean squared error. The code also performs cross-validation and grid search to find the best model parameters. 
-<img src="https://github.com/Pking31/Icfes_2019/blob/main/images/predictive.png" alt="Texto alternativo" width="500" height="400">
+
+![](https://github.com/Pking31/Icfes_2019/blob/main/images/predictive.png)
