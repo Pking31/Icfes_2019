@@ -9,7 +9,7 @@ EDA: The code reads data from a CSV file and performs exploratory data analysis 
 grouped bar charts. It also displays a correlation matrix of the selected score variables.
 
 
-<img src="https://github.com/Pking31/Icfes_2019/blob/main/images/eda.png" alt="Texto alternativo" width="500" height="500">
+<img src="https://github.com/Pking31/Icfes_2019/blob/main/images/eda.png" alt="Texto alternativo" width="500" height="400">
 
 
 ML: The code prepares the data for prediction using a linear regression model. It reads the cleaned data and splits it into features (X) and the target variable (y). The features are encoded to make them suitable for the model. The encoded features are splitted into training and validation sets. The code then trains the linear regression model on the training data and predicts the target variable for the validation set. It evaluates the model's performance using metrics 
